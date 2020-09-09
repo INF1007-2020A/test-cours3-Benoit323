@@ -57,6 +57,6 @@ None
 Diff is 1341 characters long. Set self.maxDiff to None to see it. : Certaines lettres ne doivent pas etre en majuscule
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.012s
+Ran 4 tests in 0.011s
 
 FAILED (failures=3, errors=1)
