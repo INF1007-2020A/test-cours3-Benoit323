@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     for char in nom:
-        print char[0]
+        print (char[0])
     return nom
 
 
