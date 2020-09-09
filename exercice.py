@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     for i in nom:
-        if i[0] 
+        
 
 
 if __name__ == '__main__':
