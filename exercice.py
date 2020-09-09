@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    for 
+    for i in nom:
+        
 
 
 if __name__ == '__main__':
