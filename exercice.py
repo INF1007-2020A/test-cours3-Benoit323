@@ -3,7 +3,7 @@
 def capitaliser_pays(nom):
     nom.lower()
     nom.capitalize
-    print(nom) nom
+    print(nom) 
         
 
 
