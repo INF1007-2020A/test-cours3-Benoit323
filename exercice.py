@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
     nom.lower()
+    nom.capitalize
         
 
 
