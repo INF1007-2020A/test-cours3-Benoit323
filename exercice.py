@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    # TODO completer la fonction
-    return nom
+    nom.lower()
+    nom.capitalize
+    print(nom) 
+        
 
 
 if __name__ == '__main__':
